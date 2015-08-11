@@ -1,2 +1,4 @@
 # DropChanger
-Change drop from entities - simple!
+Minecraft mod that allow to change drop from entity.
+
+**~ In development**
